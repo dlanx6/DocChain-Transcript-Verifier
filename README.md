@@ -1,6 +1,6 @@
 ## Tokenizer Contract using Foundry
 
-**A Solidity smart contract for minting and verifying transcript hash with token ID.**
+**A smart contract developed using Solidity with Foundry for minting and verifying academic transcript with hash.**
 
 > [!NOTE]  
 > Deployed on ZkSync Sepolia Testnet.
